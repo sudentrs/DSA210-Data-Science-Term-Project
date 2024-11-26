@@ -1,11 +1,12 @@
-import os
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time
+import pandas as pd
+
+# Replace with your raw GitHub file URL
+url = "https://github.com/sudentrs/CS210-Data-Science-Term-Project/blame/main/datasets/bank_info.xlsx"
+
+df = pd.read_excel(url)
+
+# Display the first few rows and column names to understand the structure
+print("Column Names:", df.columns)
+print(df.head())
 
 
-# Choose Chrome Browse
-driver = webdriver.Chrome(service=Service("C:/Users/sudet/chromedriver-win64/chromedriver.exe"))
