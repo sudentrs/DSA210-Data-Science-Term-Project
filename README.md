@@ -1,5 +1,5 @@
 # A Look into My Spending Habits
--This is my project for Sabanci University DSA210 Introduction to Data Science course Fall 2024-2025-
+_This is my project for Sabanci University DSA210 Introduction to Data Science course Fall 2024-2025_
 
 ## Description
 The project consists of an analysis of my personal bank transaction history data -particularly expenses. In the second part of the project I incooparate my daily emotinal state to see how my emotions affect the purchases that I make.
