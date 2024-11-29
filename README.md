@@ -37,6 +37,31 @@ Firstly, I need to preprocess my bank information dataset because my focus is ex
 
 
 ## Data Processing
+* ### Bank Transaction Dataset
+Transaction history starts on 04.10.2022 and ends on 25.10.2022. The initial columns are "date, time, amount, balance, description, receipt number". The receipt number is not necessary for analysis so I deleted the column. 
+I added a category column and wrote a Python code that gives unique descriptions and asks me for a category for each unique description. My initial categories were:
+* food: descriptions that contain words Getir, Trendyol Yemek, Yemeksepeti, Starbucks and such. These are purchases that are made solely for the sake of fulfilling my needs related to hunger.
+* clothing: any purchase made from a clothing store or a secondhand store.
+* skincare/make-up: purchases made from stores that sell skincare/make-up-related things. These purchases can contain shampoo, sunscreen, serums, lip balms etc.
+* social: cinemas, museums, concerts and dining at cafes -I considered adding this to the food category but decided to go to a cafe and eating//drinking something is more fitted to social activity because it is almost all the time not done solely because of hunger but planned as an activity to do with friends- 
+* market: descriptions that contain the names of market chains. It is impossible to keep track of what I bought at the time to give a more specific label like food. I also stay at the dormitories and most of my market purchases are from Şok market at school. None of the amounts in the market category is too high and there is a specific time and product range interval for the purchases, so it is unlikely that I find any out-of-the-ordinary/impulse purchases in this category.
+* other: anything other than the above categories.
+
+After the initial labelling I created some 
+
+
+
+
+* ### Daily Emotional Log
+
+
+
+
+
+
+
+
+
 
 ## Data Visualization
 _to be added_
