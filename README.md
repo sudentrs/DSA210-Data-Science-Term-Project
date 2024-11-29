@@ -49,7 +49,15 @@ I added a category column and wrote a Python code that gives unique descriptions
 * *market*: descriptions that contain the names of market chains. It is impossible to keep track of what I bought at the time to give a more specific label like food. I also stay at the dormitories and most of my market purchases are from Şok market at school. None of the amounts in the market category is too high and there is a specific time and product range interval for the purchases, so it is unlikely that I find any out-of-the-ordinary/impulse purchases in this category.
 * *other*: anything other than the above categories.
 
-After the initial labelling I created some 
+After the initial labelling, I created some count charts and decided that I labelled too many data lines as "other" so I added more categories:
+* *thrifting*:
+* *education*:
+* *subscription*:
+* *transportation*:
+* *travel cost*:
+
+Also, split skincare and make-up categories.
+
 
 
 
