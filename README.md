@@ -9,6 +9,8 @@ The project consists of an analysis of my personal bank transaction history data
 
 **[Data Source](#data-source)** 
 
+**[My Plan](#my-plan)**
+
 **[Data Processing](#data-processing)**
 
 **[Data Visualization](#data-visualization)**
@@ -22,6 +24,12 @@ My aim in doing this project was to gain a deeper understanding of my spending h
 I have two main datasets
 * My personal bank transaction history starting from the end of 2022.
 * My daily emotional logs which are derived from my journal starting from 2023.
+
+I got my transaction history from Akbank which is the main bank that  I use. Data was in an Excel file with columns representing time, date, transaction amount, balance, and description -which provides information about the content of my purchase. 
+
+I have been keeping a journal in a physical format since the start of 2023. There are short entries for every day with occasional days that I forgot to write. To use this data for my project, I created an Excel file with columns date and mood. Depending on the general vibe and the content of the entry, I marked the mood for the day as strong negative, negative, mildly negative, neutral, mildly positive, positive, strong positive or no-entry.
+
+## My Plan
 
 ## Data Processing
 
