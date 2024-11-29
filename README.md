@@ -30,13 +30,15 @@ I got my transaction history from Akbank which is the main bank that  I use. Dat
 I have been keeping a journal in a physical format since the start of 2023. There are short entries for every day with occasional days that I forgot to write. To use this data for my project, I created an Excel file with columns date and mood. Depending on the general vibe and the content of the entry, I marked the mood for the day as strong negative, negative, mildly negative, neutral, mildly positive, positive, strong positive or no-entry.
 
 ## My Plan
+After pre-processing datasets and explanatory data analysis, I hope to gain a better understanding of the datasets and come up with a better hypothesis but my initial guess is I do most of my impulse purcheses during late hours and tend to spend more money when I am happy.
+
+Firstly, I need to preprocess my bank information dataset because my focus is expenses and the dataset contains both money coming in and out of my account, also I need to categorize my purchases as food, clothing, education etc. The reason is the money I spend on education or subscription for example does not provide any information about my spending habits, these are things that are done out of schedule or out of necessity. Second step is to start visualising both datasets separately to get familiarize myself with the data. Then I will start studying these datasets together to see if I can find any correlations and test my hypothesis. In the final stage I would like to implement a ML model.
 
 
 ## Data Processing
 
 ## Data Visualization
-
-
+_to be added_
 
 
 Prepare a public Github repository for your project.
