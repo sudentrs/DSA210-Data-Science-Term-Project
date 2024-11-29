@@ -19,7 +19,7 @@ As a twenty-something year old living in Turkey in the current economic environm
 My aim in making this project was to gain a deeper understanding of my spending habits through an anaylisis of my data and to see if I have any behavioral patters that lead to overspending or tend to splurge in certain categories.
 
 ## Data Source
-I have two main datasets:
+I have two main datasets
 -My personal bank transaction history starting from the end of the 2022.
 -My daily emotional logs which are drived from my personal journal starting from 2023.
 
