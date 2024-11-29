@@ -41,7 +41,7 @@ Firstly, I need to preprocess my bank information dataset because my focus is ex
 
 Transaction history starts on 04.10.2022 and ends on 25.10.2022. The initial columns are "date, time, amount, balance, description, receipt number". The receipt number is not necessary for analysis so I deleted the column. 
 
-I added a category column and wrote a Python code that gives unique descriptions and asks me for a category for each unique description. My initial categories were:
+I added a category column and wrote a Python code that gives unique descriptions and asks me for a category for each unique description. Code can be found in `pre_processing.ipynb`. My initial categories were:
 * *food*: descriptions that contain words Getir, Trendyol Yemek, Yemeksepeti, Starbucks and such. These are purchases that are made solely for the sake of fulfilling my needs related to hunger.
 * *clothing*: any purchase made from a clothing store or a secondhand store.
 * *skincare/make-up*: purchases made from stores that sell skincare/make-up-related things. These purchases can contain shampoo, sunscreen, serums, lip balms etc.
