@@ -54,7 +54,9 @@ After the initial labelling, I created some count charts and decided that I labe
 * *education*: School payments and purchases made for course materials etc.
 * *subscription*: Spotify, Netflix and such
 * *transportation*: Istanbul kart, Kentkart and tickets purchased for transportation
-* *travel cost*: Accommodation, plane tickets, visa cost and and similar expenses that naturally occur when someone's travelling/on a holiday
+* *travel cost*: Accommodation, plane tickets, visa cost and similar expenses that naturally occur when someone's travelling/on a holiday
+* *credit card payment*: credit card paymnets were labelled seperately
+* *investment*: money I invested into several things
 
 Also, split skincare and make-up categories.
 
