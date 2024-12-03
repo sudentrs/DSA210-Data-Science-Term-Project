@@ -50,11 +50,11 @@ I added a category column and wrote a Python code that gives unique descriptions
 * *other*: anything other than the above categories.
 
 After the initial labelling, I created some count charts and decided that I labelled too many data lines as "other" so I added more categories:
-* *thrifting*:
-* *education*:
-* *subscription*:
-* *transportation*:
-* *travel cost*:
+* *thrifting*: Purchases I made at second-hand or vintage stores
+* *education*: School payments and purchases made for course materials etc.
+* *subscription*: Spotify, Netflix and such
+* *transportation*: Istanbul kart, Kentkart and tickets purchased for transportation
+* *travel cost*: Accommodation, plane tickets, visa cost and and similar expenses that naturally occur when someone's travelling/on a holiday
 
 Also, split skincare and make-up categories.
 
