@@ -61,9 +61,6 @@ After the initial labelling, I created some count charts and decided that I labe
 Also, split skincare and make-up categories.
 
 
-
-
-
 * ### Daily Emotional Log
 
 
