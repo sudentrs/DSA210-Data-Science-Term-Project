@@ -63,7 +63,7 @@ Also, split skincare and make-up categories.
 
 * ### Daily Emotional Log
 
-
+After entering the daily emotional log entries into an excel file, I combined my two datasets to create a final dataset that includes emotional state as a column in addition to bank transaction data. `pre_processing.ipynb`
 
 
 
@@ -73,4 +73,4 @@ Also, split skincare and make-up categories.
 
 
 ## Data Visualization
-_to be added_
+
